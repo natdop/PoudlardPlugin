@@ -1,0 +1,10 @@
+name: PoudlardPlugin
+version: 1.0
+author: Lefoulichon
+main: fr.lefoulichon.poudlardplugin.PoudlardPlugin 
+commands:
+  spell:
+    description: Commande des sorts 
+    usage: /spell [sort]
+    permission: commands.use  
+    
